@@ -4,6 +4,7 @@
 
 int main ()
 {
+
 	CTimer timer("main");
 	return 0;
 }
